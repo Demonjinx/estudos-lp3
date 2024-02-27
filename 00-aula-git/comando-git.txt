@@ -1,0 +1,7 @@
+git init - inicializa o git no repositorio
+git status - mostra o status do repositorio 
+git config -l - mostra a confg do repositorio
+git config --global user.<name/mail> - define o nome ou email do usuario
+git add <arquivo> = adiciona um arquivo para o próximo commit
+git add . = adiciona todos os arquivos (untracked/modified) para o próximo commit
+git clone = faz o download de um repositorio remoto  
